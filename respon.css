@@ -1,0 +1,63 @@
+@media (max-width:647px) {
+    .primeiro-titulo {
+        font-size: 2rem;
+    }
+    .segundo-titulo{
+        font-size: 1.1rem;
+    }
+
+.titulo-principal{
+    text-align: center;
+    font-size: 1.2rem;
+    width: 25rem;
+}
+
+#video{
+    width: 16rem;
+}
+.titulo-carta{
+    font-size: 2rem;
+}
+.carta-feita{
+font-size: 0.9rem;
+width: 26rem;
+}
+}
+
+@media(maxwidth:450px) {
+    .carta-feita{
+        width: 22rem;
+    }
+}
+@media(maxwidth:375px){
+    .primeiro-titulo{
+        font-size: 1.8rem;
+    }
+    .segundo-titulo{
+        font-size: 1rem;
+    }
+    #video{
+        width: 15rem;
+    }
+    .titulo-principal{
+        font-size: 1.5rem;
+        margin-left: 1.2rem;
+    }
+    .titulo-carta{
+        font-size: 1.8rem;
+    }
+    .carta-feita{
+        font-size: 0.9rem;
+        width: 21rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
